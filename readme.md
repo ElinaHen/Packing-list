@@ -1,1 +1,3 @@
-# Assignment fo JS course in Laurea
+# Assignment for JS course in Laurea
+
+# packing list
