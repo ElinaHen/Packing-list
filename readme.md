@@ -1,1 +1,1 @@
-# Assignment fo JS ocurse in Laurea
+# Assignment fo JS course in Laurea
